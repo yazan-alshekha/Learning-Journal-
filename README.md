@@ -12,11 +12,11 @@ example
 
 
 paragraph two
- you can use ** to make the sentence bold
- you should put  as that **word**
+you can use ** to make the sentence bold
+ you should put  as that ** word **
  
  exmample
- ** word **
+ **word**
  
 
 
